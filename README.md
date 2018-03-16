@@ -2,11 +2,13 @@
 A react playground app
 
 This is the first project of Udemy course "Complete React Web Development 2nd Edition". Just finished it and anyone interested in feels free to play with it!
+
 To run this project, run:
 
 ```
 yarn run dev-server
 ```
+*Note: a series of node modules are required to run, dependencies are included in package.json*
 
 and go to localhost:8080.
 
